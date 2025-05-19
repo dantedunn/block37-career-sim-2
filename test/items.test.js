@@ -1,5 +1,5 @@
 const request = require('supertest');
-const app = require('../index'); // Adjust path if needed
+const app = require('../index'); 
 
 describe('Items API', () => {
   let itemId;
